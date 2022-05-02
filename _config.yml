@@ -6,12 +6,12 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: 정민
-user_description: 백엔드 개발자가 되기 위해 끊임없는 성장을 추구하고 있습니다.
+user_description: 서비스에 개발을 어떻게 녹일 수 있을지 고민하는 백엔드 웹 개발자 양정민입니다.
 user_title: Backend Engineer
-email: overult01@gmail.com
+email: wjdals0814@naver.com
 blog: https://structuring.tistory.com/
+github_username: overult01
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
