@@ -1,13 +1,13 @@
 # Site settings
 title: 정민
-description: Java, Node JS 백엔드 엔지니어
+description: Java 엔지니어
 baseurl: "https://overult01.github.io/" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: 정민
-user_description: 서비스에 개발을 어떻게 녹일 수 있을지 고민하는 백엔드 웹 개발자 양정민입니다.
-user_title: Backend Engineer
+user_description: 서비스에 개발을 어떻게 녹일 수 있을지 고민하는 개발자 양정민입니다.
+user_title: Engineer
 email: wjdals0814@naver.com
 blog: https://structuring.tistory.com/
 github_username: overult01
